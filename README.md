@@ -3,7 +3,7 @@ This Repository containing my Machine Learning projects for self-learning purpos
 
 Tools :
  * Python 
- * Machine Learning Framework : Tensorflow, Keras
+ * Framework : Tensorflow, Keras
  
  ## Contents
  
