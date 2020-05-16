@@ -10,3 +10,9 @@ Tools :
 - ### Machine Learning
 
 - ### Deep Neural Networks
+
+- ### Natural Language Processing
+
+- ### Computer Vision
+
+- ### Timeseries Forecasting
